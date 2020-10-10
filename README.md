@@ -1,0 +1,2 @@
+# PlayBot
+PlayBot for Discord.
